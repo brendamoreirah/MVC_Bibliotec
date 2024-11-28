@@ -1,0 +1,544 @@
+/* Imports de fontes */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --dark-blue: #26333d;
+  --blue: #4a67df;
+  --green: #2fd6cb;
+}
+
+/* Desktop First à partir de 992px */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #dfdfdf;
+}
+
+/******************* Cabeçalho *******************/
+.header {
+  background-color: var(--dark-blue);
+  height: 96px;
+}
+
+.container {
+  max-width: 992px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+}
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 400px;
+  height: 96px;
+  /* border: 1px solid white; */
+}
+.header .navbar .logo-mobile,
+.header .navbar .arrow-left,
+.menu-hamburger {
+  display: none;
+}
+
+.header .navbar .navbar-item {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: color 0.4s;
+}
+.header .navbar .navbar-item:hover {
+  color: var(--green);
+}
+
+/******************* Banner *******************/
+.banner {
+  background-image: linear-gradient(to right bottom, #4a67df, #4599da);
+}
+
+/* container do banner */
+.banner .banner-flex {
+  position: relative;
+  width: 100%;
+  height: 560px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, .1); */
+  /* border: 1px solid red; */
+}
+
+.banner .banner-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 530px;
+  height: 240px;
+  align-self: center;
+  color: white;
+  /* border: 1px solid white; */
+}
+
+.banner-image {
+  position: absolute;
+  top: -179px;
+  right: -339px;
+  height: 800px;
+}
+
+.banner .banner-info h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.banner .banner-info p {
+  font-size: 25px;
+  font-weight: 300;
+}
+.btn-acessar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 185px;
+  height: 50px;
+  background-color: #26333d;
+  color: #f8f8f8;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 1px solid #26333d;
+  border-radius: 10px;
+}
+
+/******************* Motivos, porque usar *******************/
+.motivos {
+  padding: 40px 0 60px;
+}
+
+.motivos-flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+/* Caixa de título genérica - todas as sessões */
+.titulo2 {
+  width: 100%;
+  /* border: 1px solid red; */
+}
+
+.titulo2 h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.titulo2 hr {
+  width: 20%;
+  border: 2px solid var(--green);
+  margin: 20px auto 0;
+}
+
+.card-motivos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 270px;
+  height: 330px;
+  padding: 20px 30px;
+  margin-top: 100px;
+  background-color: white;
+  border: 1px solid var(--dark-blue);
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.card-motivos .icon-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 130px;
+  margin-top: -80px;
+  padding: 10px;
+  background-color: white;
+  border: 4px solid var(--green);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.card-motivos .icon-box img {
+  width: 65px;
+}
+
+.card-motivos h3 {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card-motivos p {
+  width: 80%;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+}
+
+/******************* Sessão Plataforma *******************/
+.plataforma {
+  background-color: #3691D9;
+  height: 445px;
+}
+
+.plataforma-flex {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 0;
+} 
+
+.plataforma .totalmente-gratis {
+  position: absolute;
+  top: 0;
+  left: -80px;
+  width: 606px;
+  height: 445px;
+  background-image: url(~/images/totalmente-gratis.png);
+  background-size:  cover;
+  background-repeat: no-repeat;
+  /* border: 2px solid green; */
+}
+
+.plataforma .plataforma-info {
+  width: 410px;
+  /* border: 1px solid white; */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.plataforma .plataforma-info h2 {
+  font-size: 28px;
+  color: white;
+  font-weight: 700;
+}
+
+.plataforma .plataforma-info p {
+  margin: 40px 0 60px;
+  color: white;
+  font-size: 25px;
+  font-weight: 300;
+
+}
+
+/* ************ Sessão Livros Recomendados ************ */
+.recomendados {
+  padding: 40px 0;
+}
+
+.recomendados .recomendados-flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 225px;
+  margin-top: 20px;
+}
+
+.card img {
+  width: 225px;
+}
+
+.card h3 {
+  margin: 20px 0;
+ font-size: 20px;
+ text-align: center;
+ text-transform: uppercase;
+}
+
+.card span {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.card span.titulo-autor {
+  font-weight: 700;
+}
+
+/* *************** Footer ************** */
+.footer {
+  padding: 30px 0;
+  color: white;
+  background-color: var(--dark-blue);
+}
+.footer h4 {
+  color: var(--green);
+  font-size: 16px;
+  font-weight: 600;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+.footer .right {
+  padding: 20px;
+  text-align: center;
+}
+
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  min-height: 245px;
+  padding: 15px 0 25px;
+  border-bottom: 1px solid white;
+}
+
+/* apagar */
+.footer-logo, .footer-nav {
+  /* border: 1px solid red; */
+}
+
+.footer-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 230px;
+}
+
+.footer-logo .img-footer-logo {
+  width: 182px;
+}
+
+.footer-logo .img-footer-senai {
+  width: 176px;
+}
+
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+.footer .footer-nav .left-info,
+.footer .footer-nav .right-info {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  min-height: 245px;
+  /* border: 1px solid white; */
+}
+
+.footer .footer-nav h4 {
+  width: 100%;
+  line-height: 40px;
+}
+.footer .footer-nav h4.sociais-titulo,
+.footer .footer-nav span.sociais {
+  margin-top: 60px;
+}
+.footer .footer-nav span.sociais {
+width: 100%;
+}
+
+.footer .footer-nav span.sociais a > img {
+  width: 22px;
+  height: 22px;
+  margin-right: 15px;
+}
+
+.footer .footer-nav a {
+  width: 100%;
+  line-height: 40px;
+}
+/* Mobile e Tablet */
+@media screen and (max-width: 991px) {
+  /* classes genéricas */
+  .mostra-menu {
+    left: 0 !important;
+    opacity: 0.97 !important;
+  }
+
+  .header {
+    height: 80px;
+  }
+
+  .header-flex {
+    padding: 10px 15px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  .menu-hamburger {
+    display: block;
+    width: 45px;
+    transition: transform 0.4s;
+  }
+  .menu-hamburger-rotate {
+    transform: rotate(45deg);
+  }
+
+  .header .navbar {
+    position: fixed;
+    top: 0;
+    left: -80vw;
+    z-index: 1000;
+    opacity: 0;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    width: 80vw;
+    height: 100vh;
+    background-color: var(--dark-blue);
+    border-radius: 0 0 40px 0;
+    transition: left 0.4s, opacity 0.6s;
+  }
+  .header .navbar .arrow-left {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    z-index: 1001;
+    display: block;
+    height: 25px;
+  }
+
+  .header .navbar .logo-mobile {
+    position: absolute;
+    top: 100px;
+    left: calc(50% - 40px);
+    display: block; /* estava escondido no desktop */
+    width: 80px;
+  }
+
+  /* Banner Mobile */
+  .banner .banner-flex {
+    justify-content: center;
+    height: 562px;
+    padding: 20px;
+  }
+  .banner-image {
+    display: none;
+  }
+  .banner .banner-info h1 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .banner .banner-info p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .banner .banner-info a {
+    align-self: center;
+  }
+
+  /* Motivos - Por quê usar */
+  .titulo2 h2 {
+    font-size: 25px;
+  }
+
+  .titulo2 hr {
+    width: 80%;
+  }
+  .motivos-flex {
+    justify-content: center;
+    gap: 30px;
+  }
+
+  /******************* Sessão Plataforma *******************/
+  .plataforma-flex {
+    padding: 0 20px;
+  }
+
+  .plataforma .totalmente-gratis {
+    display: none;
+  }
+
+  .plataforma .plataforma-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .plataforma .plataforma-info h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .plataforma .plataforma-info p {
+    font-size: 20px;
+  }
+
+  /* ************ Sessão Livros Recomendados ************ */
+  .recomendados .recomendados-flex {
+    justify-content: center;
+  }
+
+  /* ****************** Footer ******************** */
+  .footer-mobile-only {
+    display: block;
+  }
+  .footer-flex {
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    align-items: center;
+  }
+  .footer-logo {
+    justify-content: center;
+    /* align-items: center; */
+    height: 150px;
+    
+  }
+  
+  .footer-logo .img-footer-logo,
+  .footer-logo .img-footer-senai  {
+    width: 100%;
+    width: 150px;
+  }
+  .footer-logo .img-footer-logo {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  .footer-logo .img-footer-senai  { 
+    margin-bottom: 40px;
+  }
+
+  .footer .footer-nav {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+  }
+  .footer .footer-nav .left-info, .footer .footer-nav .right-info {
+    min-height: 140px;
+    /* border: 1px solid red; */
+  }
+  .footer .footer-nav h4.sociais-titulo {
+    display: none;
+  }
+}

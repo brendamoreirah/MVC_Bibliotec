@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Bibliotec</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="~/images/logo-mobile.png">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Bibliotec.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/menulateral.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+</head>
+
+<body>
+    @if (ViewBag.Admin == "False")
+    {
+        //menun de aluno
+         <div class="container-flex">
+            <div class="sombra"></div>
+            <aside class="">
+                <span onclick="recolheMenu(event);" class="mnu-arrow-left">&lt;</span>
+                <div class="aside-top">
+                    <img class="logo-mobile" src="~/images/logo-mobile.png" alt="" />
+
+                    <nav class="menu-lateral">
+                        <a href="#" class="nav-item-active">
+                            <img src="~/images/UserPlus-icon.svg" alt="" />
+                            Perfil
+                        </a>
+
+                        <a href="#">
+                            <img src="~/images/Book-icon.png" alt="" />
+                            Livros Disponíveis
+                        </a>
+                        <a href="#">
+                            <img src="~/images/BookHeart-Icon.png" alt="" />
+                            Favoritos
+                        </a>
+                    </nav>
+                </div>
+
+                <a class="user-logout" asp-area="" asp-controller="Login" asp-action="Logout">
+                    <img src="~/images/logout-icon.svg" alt="" />
+                    Sair
+                </a>
+            </aside>
+
+            @RenderBody()
+        </div>
+
+
+    }
+    else if (ViewBag.Admin == "True")
+    {
+        //menu de admin
+         <div class="container-flex">
+            <div class="sombra"></div>
+            <aside class="">
+                <span onclick="recolheMenu(event);" class="mnu-arrow-left">&lt;</span>
+                <div class="aside-top">
+                    <img class="logo-mobile" src="~/images/logo-mobile.png" alt="" />
+
+                    <nav class="menu-lateral">
+                        <a class="nav-item-active" asp-area="" asp-controller="Usuario" asp-action="Index" >
+                            <img src="~/images/UserPlus-icon.svg" alt="Icone de usuário com um símbolo de adição"/>
+                            Perfil
+                        </a>
+                        <a asp-area="" asp-controller="Livro" asp-action="Cadastro">
+                            <img src="~/images/CadLivro-icon.png" alt="Icone de livro com um símbolo de adição" />
+                            Cadastrar Livro
+                        </a>
+                        <a asp-area="" asp-controller="Livro" asp-action="Index">
+                            <img src="~/images/ListLivro-icon.png" alt="ícone com três livros" />
+                            Listar Livros
+                        </a>
+
+                    </nav>
+                </div>
+
+                <a class="user-logout" asp-area="" asp-controller="Login" asp-action="Logout">
+                    <img src="~/images/logout-icon.svg" alt="" />
+                    Sair
+                </a>
+            </aside>
+
+            @RenderBody()
+        </div>
+
+
+
+    }
+    else
+    {
+        <!-- ************ CABEÇALHO ************ -->
+        <header class="header">
+            <div class="container header-flex">
+                <img src="~/images/logo-recortado.png" alt=""
+                    class="logotipo. Imagem de um libro aberto e um texto escrito Bibliotech" />
+                <nav class="navbar" id="navbar">
+                    <img class="arrow-left" src="~/images/arrow-left.svg" alt="Menu Mobile" onclick="mostraMenu()" />
+                    <img class="logo-mobile" src="~/images/logo-mobile.png" alt="Menu Mobile" />
+                    <a asp-controller="Login" asp-action="Index" class="navbar-item">Login</a>
+                </nav>
+
+                <img src="~/images/menu-hamburger.png" alt="" class="menu-hamburger" id="menu-hamburger"
+                    onclick="mostraMenu()" />
+            </div>
+        </header>
+
+        @* <div class="container">
+    <main role="main" class="pb-3"> *@
+        @RenderBody()
+        @* </main>
+    </div> *@
+
+        <footer class="footer">
+            <div class="container footer-flex">
+
+                <div class="footer-logo">
+                    <img class="images-footer-logo" src="~/images/logo-desktop.svg" alt="" />
+                    <img class="images-footer-senai" src="~/images/logo-senai-vermelho.png" alt="" />
+                </div>
+
+                <nav class="footer-nav">
+
+                    <div class="left-info">
+                        <h4>Biblioteca</h4>
+                        <a href="#">Baixar aplicativo</a>
+                        <a href="#">Suporte ao usuário</a>
+                        <h4 class="sociais-titulo">Siga nas redes sociais</h4>
+                    </div>
+
+                    <div class="right-info">
+                        <h4>Quem somos</h4>
+                        <a href="#">Clientes</a>
+                        <a href="#">Benefícios</a>
+                        <span class="sociais">
+                            <a href="#"><img src="~/images/facebook-icon.png" alt=""></a>
+                            <a href="#"><img src="~/images/instagram-icon.png" alt=""></a>
+                            <a href="#"><img src="~/images/linkedin-icon.png" alt=""></a>
+                        </span>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="container footer-mobile-only">
+                <p class="right">
+                    &copy; 2024 Bibliotec - Todos os direitos reservados
+                </p>
+            </div>
+        </footer>
+    }
+
+
+
+    <script src="~/scripts/index.js"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

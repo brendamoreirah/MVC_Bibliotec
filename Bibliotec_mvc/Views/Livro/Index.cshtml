@@ -1,0 +1,46 @@
+<main class="container-main">
+    <div class="box-conteudo listar-livros">
+        <h1>listar livros</h1>
+
+        <div class="pesquisa">
+            <div class="box-input">
+                <input type="text">
+                <a href=""><img src="~/images/search-icon.svg" alt="icone de busca"></a>
+            </div>
+            <a href=""><img class="botao-filtro" src="~/images/config-icon.png" alt="iconde de filtro"></a>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Titulo</th>
+                    <th>Reservado</th>
+                    <th>Data Devolução</th>
+                    <th>Editar</th>
+                    <th>Detalhes</th>
+                    <th>Excluir</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var livro in @ViewBag.Livros)
+                {
+                    <tr>
+                        <td data-cell="titulo">@livro.Nome</td>
+                        <td data-cell="reservado">@(ViewBag.LivrosComReserva.ContainsKey(livro.LivroID) ? "sim" :"Nao") </td>
+                        <td data-cell="data devol.">@(ViewBag.LivrosComReserva.ContainsKey(livro.LivroID) ?ViewBag.LivrosComReserva[livro.LivroID].ToString("dd/MM/yyyy") : "Nao possui reserva")</td>
+                        <td class="icon" data-cell="editar"><a class="navbar-item"><img style="width: 40px;"
+                                    src="~/images/editar.svg" alt=""></a></td>
+                        <td class="icon" data-cell="detalhes"><a class="navbar-item"><img style="width: 40px;"
+                                    src="~/images/detalhes.svg" alt=""></a></td>
+                        <td class="icon" data-cell="excluir"><a class="navbar-item"><img style="width: 40px;"
+                                    src="~/images/excluir.svg" alt=""></a></td>
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+
+    </div>
+</main>

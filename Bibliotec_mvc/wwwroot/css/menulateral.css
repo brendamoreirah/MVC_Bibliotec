@@ -1,0 +1,299 @@
+/* Imports de fontes */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-blue: #26333d;
+    --blue: #4a67df;
+    --green: #2fd6cb;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background:
+        url(../images/bg-main.svg),
+        #f8f8f8;
+    background-repeat: no-repeat;
+    background-position: top -30px right -30px;
+    background-size: 450px;
+}
+
+/******************* TODO CONTEÚDO *******************/
+.container-flex {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* gap: 20px; */
+}
+
+/******************* Aside *******************/
+.sombra{
+    width: 0;
+    height: 100vh;
+    z-index: 1;
+    background-color: #000000a0;
+    backdrop-filter: blur(5px);
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    -webkit-transition: width 0.3s ease-in-out;
+    -moz-transition: width 0.3s ease-in-out;
+    -o-transition: width 0.3s ease-in-out;
+    transition: width 0.3s ease-in-out;
+}
+
+.movimento-sombra{
+    width: 100vw;
+}
+
+aside {
+    position: relative;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 260px;
+    height: 100vh;
+    padding: 80px 20px 40px;
+    background-color: #26333d;
+    border-radius: 0 30px 30px 0;
+
+    -webkit-transition: width 0.3s ease-in-out;
+    -moz-transition: width 0.3s ease-in-out;
+    -o-transition: width 0.3s ease-in-out;
+    transition: width 0.3s ease-in-out;
+}
+
+aside .mnu-arrow-left {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 2;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    background-color: #26333d;
+    color: white;
+    font-weight: bold;
+    font-family: "Courier New", Courier, monospace;
+    padding: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: rotate 0.4s, right 0.4s;
+}
+
+aside .aside-top {
+    /* margin-top: 60px; */
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* border: 1px solid white; */
+}
+
+aside .logo-mobile {
+    width: 90px;
+    transition: width 0.5s;
+}
+
+aside .logo-mobile {
+    width: 90px;
+}
+
+aside .menu-lateral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+    /* border: 1px solid red; */
+}
+
+aside .menu-lateral a:hover {
+    color: #2fd6cb;
+}
+
+aside .menu-lateral a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px 0;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: color 0.4s;
+    /* border: 1px solid yellow ; */
+}
+
+aside .menu-lateral a img {
+    width: 30px;
+}
+
+.nav-item-active {
+    border-bottom: 1.5px solid #2fd6cb;
+}
+
+aside .user-logout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: font-size 0.6s;
+}
+
+aside .user-logout img {
+    width: 30px;
+}
+
+aside .menu-lateral a,
+.user-logout {
+    font-size: 14px;
+}
+
+
+/******************* EFEITO DE MINIMIZAR - Aside *******************/
+.aside-min {
+    width: 80px;
+}
+
+aside .mnu-arrow-left-min {
+    right: -12px;
+    rotate: 180deg;
+}
+
+aside .logo-mobile-min {
+    width: 45px;
+}
+
+aside .menu-lateral-min a {
+    font-size: 0;
+    transition: font-size 0.6s;
+    justify-content: center;
+    gap: 0;
+}
+
+aside .user-logout-min {
+    font-size: 0;
+    gap: 0;
+}
+
+
+/******************* MAIN *******************/
+.container-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 70%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    -webkit-transition: width 0.3s ease-in-out;
+    -moz-transition: width 0.3s ease-in-out;
+    -o-transition: width 0.3s ease-in-out;
+    transition: width 0.3s ease-in-out;
+}
+
+.box-conteudo {
+    /* display: flex; */
+    /* gap: 10px; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+
+    width: 100%; 
+    height: 90vh;
+    padding: 30px;
+
+    background-color: #ffffff90;
+    backdrop-filter: blur(10px);
+    border-radius: 35px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+
+    overflow: auto;
+}
+
+.box-conteudo h1 {
+    width: 90%;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+/******************* EFEITO DE MINIMIZAR - main *******************/
+.main-min {
+    /* width: calc(100% - 100px); */
+    width: 80%;
+}
+
+
+
+  /******************* MEDIA *******************/
+  @media  screen and (max-width: 1000px) {
+    .container-main{
+        width: 65%;
+    }
+}
+
+  @media  screen and (max-width: 768px) {
+    aside{
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 2;
+    }
+
+    .box-conteudo{
+        /* padding: 10px; */
+    }
+
+    .container-main{
+        width: 90%;
+    }
+
+    .container-main::before{
+        content: "";
+        width: 100px;
+        height: 100vh;
+    }
+  }
+
+
+  /* Padrão de botões */
+.btn {
+    background: #FFF;
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border: 2px solid #2fd6cb;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+  
+  .btn:hover {
+    background: #2fd6cb;
+    color: #FFF;
+  }

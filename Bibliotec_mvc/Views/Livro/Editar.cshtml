@@ -1,0 +1,68 @@
+<main class="container-main">
+    <div class="box-conteudo">
+        <h1>Editar o Livro</h1>
+        <form method="post">
+            <div class="form-linha">
+                <div class="form-group-name">
+                    <label class="form-label" for="Nome">Nome</label>
+                    <input type="text" name="Nome" class="form-input" placeholder="">
+                </div>
+
+                <div class="form-upload">
+                    <label class="form-label" for="Imagem">Foto</label>
+                    <div class="input-foto">
+                        <input type="file" name="Imagem">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-linha">
+                <div class="form-group">
+                    <label class="form-label" for="Escritor">Escritor</label>
+                    <input type="text" name="Escritor" class="form-input" placeholder="">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="Idioma">Idioma</label>
+                    <input type="text" name="Idioma" class="form-input" placeholder="">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="Editora">Editora</label>
+                    <input type="text" name="Editora" class="form-input" placeholder="">
+                </div>
+            </div>
+
+            <div class="form-linha">
+                <div class="form-group">
+                    <label class="form-label" for="categoria">Categoria</label>
+                    <ul>
+                        <li>
+                            <input name="Categoria" type="checkbox">
+                            <label class="form-label-categoria" for="Categoria">Romance</label>
+                        </li>
+                        <li>
+                            <input name="Categoria" type="checkbox">
+                            <label class="form-label-categoria" for="Categoria">Ação</label>
+                        </li>
+                        <li>
+                            <input name="Categoria" type="checkbox">
+                            <label class="form-label-categoria" for="Categoria">Aventura</label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="form-linha">
+                <div class="form-group">
+                    <label class="form-label" for="Descricao">Descrição</label>
+                    <textarea type="text" name="Descricao"
+                        class="form-input form-descricao">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum odit placeat ipsam odio recusandae, voluptate quos, eius, nisi nostrum neque asperiores! Quasi commodi beatae fugiat nemo! Aut id est explicabo.</textarea>
+                </div>
+            </div>
+
+            <div class="btn-div">
+                <button type="submit" class="btn btn-cadastrar">Editar</button>
+            </div>
+        </form>
+    </div>
+</main>

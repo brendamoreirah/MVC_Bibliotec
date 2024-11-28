@@ -1,0 +1,106 @@
+/******************* Fornmulário de Login *******************/
+.bk-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100wh;
+  height: calc(100vh - 96px);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+}
+
+.form-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* 
+  align-items: flex-start;
+  
+  width: 80vw;
+  height: 80vh;
+  padding: 20px;
+  max-width: 900px;
+  min-width: 320px;
+  max-height: 670px;
+  min-height: 400px;
+  background-color: transparent;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.2)
+  );
+  backdrop-filter: blur(5px);
+  border-radius: 30px; */
+
+  width: 70%;
+  height: 70vh;
+  padding: 50px;
+  background-color: #ffffff90;
+  backdrop-filter: blur(10px);
+  border-radius: 35px;
+  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+  overflow: auto;
+}
+
+.form-box h1 {
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.formulario .frm-label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.formulario .frm-input {
+  height: 50px;
+  padding: 10px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  outline: none;  
+  border: none;
+}
+
+
+.formulario .frm-input:first-of-type {
+  margin-bottom: 40px;
+}
+
+.formulario .esqueci-senha {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: right;
+  color: #26333D;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.formulario .btn-entrar {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  text-transform: uppercase;
+  background-color: #26333D;
+  border-radius: 10px;
+  transition: background-color .4s;
+  border: none;
+}
+
+.formulario .btn-entrar:hover {
+  background-color: #2fd6cb;
+  border: none;
+  color: black;
+
+}
+

@@ -1,0 +1,158 @@
+.listar-livros::-webkit-scrollbar-track {
+    height: 50%;
+    background: #000;
+  }
+  
+  .listar-livros>* {
+    padding: 10px 5%;
+    width: 100%;
+  }
+  
+  
+  /******************* PESQUISA *******************/
+  .listar-livros .pesquisa {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px 0;
+  }
+  
+  .listar-livros .box-input {
+    width: 80%;
+    max-width: 500px;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .listar-livros .pesquisa input {
+    height: 40px;
+    border: solid 1px #cccccc;
+    border-radius: 10px;
+    background-color: #fefefe;
+    width: 100%;
+  }
+  
+  .listar-livros .box-input a {
+    position: absolute;
+    right: 10px;
+  }
+  
+  .listar-livros .box-input img {
+    height: 25px;
+  }
+  
+  .listar-livros .pesquisa .botao-filtro {
+    width: 44px;
+  }
+  
+  
+  /******************* TEBELA *******************/
+  .listar-livros table td {
+    padding: 5px 0;
+    line-height: 1;
+  
+  }
+  
+  .listar-livros tbody input {
+    height: 25px;
+    width: 25px;
+  }
+  
+  .listar-livros tbody img {
+    height: 30px;
+  }
+  
+  td.icon {
+    text-align: center;
+  }
+  
+  
+  /******************* MEDIA *******************/
+  @media screen and (max-width: 1000px) {
+  
+    /******************* RESPONSIVIDADE TABELA *******************/
+    thead {
+      display: none;
+    }
+  
+    tr::after {
+      content: "";
+      height: 2px;
+      width: 100%;
+      margin: 10px 0;
+      display: block;
+  
+      background: rgb(238, 238, 238);
+      background: -moz-linear-gradient(128deg, rgba(238, 238, 238, 1) 0%, rgba(204, 204, 204, 1) 25%, rgba(204, 204, 204, 1) 75%, rgba(238, 238, 238, 1) 100%);
+      background: -webkit-linear-gradient(128deg, rgba(238, 238, 238, 1) 0%, rgba(204, 204, 204, 1) 25%, rgba(204, 204, 204, 1) 75%, rgba(238, 238, 238, 1) 100%);
+      background: linear-gradient(128deg, rgba(238, 238, 238, 1) 0%, rgba(204, 204, 204, 1) 25%, rgba(204, 204, 204, 1) 75%, rgba(238, 238, 238, 1) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeeeee", endColorstr="#eeeeee", GradientType=1);
+  
+      /* background: rgb(85, 168, 253);
+        background: -moz-linear-gradient(128deg, rgba(85, 168, 253, 1) 0%, rgba(0, 8, 82, 1) 25%, rgba(0, 8, 82, 1) 75%, rgba(85, 168, 253, 1) 100%);
+        background: -webkit-linear-gradient(128deg, rgba(85, 168, 253, 1) 0%, rgba(0, 8, 82, 1) 25%, rgba(0, 8, 82, 1) 75%, rgba(85, 168, 253, 1) 100%);
+        background: linear-gradient(128deg, rgba(85, 168, 253, 1) 0%, rgba(0, 8, 82, 1) 25%, rgba(0, 8, 82, 1) 75%, rgba(85, 168, 253, 1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#55a8fd", endColorstr="#55a8fd", GradientType=1); */
+    }
+  
+    td {
+      display: flex;
+      /* place-items: center; */
+      align-items: center;
+      gap: 10px;
+      /* grid-template-columns: 20ch auto; */
+  
+      /* padding: 10px 15px; */
+      overflow-x: scroll;
+      white-space: nowrap;
+      min-width: 225px;
+      width: 100%;
+    }
+  
+    td::before {
+      content: attr(data-cell) ": ";
+      text-align: start;
+      font-weight: 700;
+      text-transform: capitalize;
+      min-width: 90px;
+      width: 25%;
+    }
+  
+    .listar-livros tbody input {
+      height: 20px;
+      width: 20px;
+    }
+  
+    .listar-livros tbody img {
+      height: 25px;
+    }
+  
+  
+    /******************* CASO TEBELA VAZIA *******************/
+    .linha-mensagem td::before {
+      content: '';
+    }
+  
+    .linha-mensagem td {
+      display: table-cell;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .listar-livros h1 {
+      font-size: 22px;
+      padding: 0;
+    }
+  
+    .listar-livros .pesquisa {
+      padding: 10px 0;
+      gap: 10px;
+    }
+  
+    .listar-livros table {
+      padding: 0;
+      font-size: 14px;
+    }
+  }

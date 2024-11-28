@@ -1,0 +1,27 @@
+.conteudo_principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+
+}
+
+
+.conteudo {
+    display: flex;
+    margin-top: 10px;
+}
+
+.conteudo p {
+    margin-left: 10px;
+}
+
+.linha {
+    background-color: #2fd6cb;
+    width: 50%;
+    height: 3px;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
