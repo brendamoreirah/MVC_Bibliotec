@@ -347,3 +347,4 @@ C:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc\obj\Debug\net8.0
 C:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc\obj\Debug\net8.0\Bibliotec.pdb
 C:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc\obj\Debug\net8.0\Bibliotec.genruntimeconfig.cache
 C:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc\obj\Debug\net8.0\ref\Bibliotec.dll
+C:\Users\47231372899\Desktop\Bibliotec atualizada\bibliotec_mvc\obj\Debug\net8.0\Bibliotec.sourcelink.json

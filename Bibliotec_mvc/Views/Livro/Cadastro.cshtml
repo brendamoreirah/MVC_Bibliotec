@@ -34,24 +34,25 @@
                     <label class="form-label" for="Editora">Editora</label>
                     <input type="text" name="Editora" class="form-input" placeholder="">
                 </div>
+                <div class="form-group">
+                    <label class="form-label" for="Descricao">Descricao</label>
+                    <input type="text" name="Escritor" class="form-input" placeholder="">
+                </div>
+
+            
             </div>
 
             <div class="form-linha">
                 <div class="form-group">
                     <label class="form-label" for="categoria">Categoria</label>
                     <ul>
+                        @foreach(Categoria categoria in ViewBag.Categorias){
                         <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Romance</label>
+                            <input name="Categoria" type="checkbox" value="@categoria.CategoriaID" >
+                            <label class="form-label-categoria" for="Categoria">@categoria.Nome</label>
                         </li>
-                        <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Ação</label>
-                        </li>
-                        <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Aventura</label>
-                        </li>
+                        }
+                      
                     </ul>
                 </div>
             </div>

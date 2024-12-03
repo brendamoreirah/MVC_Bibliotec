@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\Bibliotec.csproj": {}
+    "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\Bibliotec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\Bibliotec.csproj": {
+    "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\Bibliotec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\Bibliotec.csproj",
+        "projectUniqueName": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\Bibliotec.csproj",
         "projectName": "Bibliotec",
-        "projectPath": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\Bibliotec.csproj",
+        "projectPath": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\Bibliotec.csproj",
         "packagesPath": "C:\\Users\\47231372899\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\",
+        "outputPath": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47231372899\\AppData\\Roaming\\NuGet\\NuGet.Config",
