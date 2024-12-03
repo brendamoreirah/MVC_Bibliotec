@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Bibliotec.Contexts;
 using Bibliotec.Models;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -65,10 +66,68 @@ namespace Bibliotec_mvc.Controllers
             novoLivro.Nome = form["Editora"].ToString();
             novoLivro.Nome = form["Escritor"].ToString();
             novoLivro.Nome = form["Idioma"].ToString();
+            //trabalhar com imagens:
+            if (form.Files.Count > 0)
+            {
+                //Primeiro passo
+                //Armazenar o arquivo/foto enviado pelo usuario
+                var arquivo = form.Files[0];
 
-        context.Livro.Add(novoLivro);
+                //segundo passo
+                //criar variavel do caminho da minha pasta para colocar as fotos dos livros
+                var pasta = Path.Combine(Directory.GetCurrentDirectory(), "wwwrooot/images/Livros");
+                //Validaremos se a pasta que sera armazenada as imagen, existe.Caso nao exista, criaremos uma nova pasta
 
-        context.SaveChanges();
+
+                if (!Directory.Exists(pasta))
+                {
+                    //criar pasta
+                    Directory.CreateDirectory(pasta);
+                }
+
+                //terceiro passo:
+                //criar a variavel para armazenar o caminho em que meu arquivo estara, alem do nome dele
+                var caminho = Path.Combine(pasta, arquivo.FileName);
+
+                using (var stream = new FileStream(caminho, FileMode.Create)){
+                    arquivo.CopyTo(stream);
+                }
+
+                novoLivro.Imagem = arquivo.FileName;
+            }else{
+                novoLivro.Imagem = "padrao.png";
+            }
+
+            context.Livro.Add(novoLivro);
+            context.SaveChanges();
+
+            //SEGUNDA PARTE/ é adicionar dentro da LivroCategoria a categoria que pertence ao novoLivro
+            //lista as categorias
+            List<LivroCategoria> livroCategorias = new List<LivroCategoria>();
+
+            //arrays  que possui as categorias selecionadas pelo usuario
+            string[] categoriasSelecionadas = form["Categoria"].ToString().Split(',');
+            //Acao,terror, suspense 
+            //1,5,7
+
+
+            // Categoria possuia informacao do id da categoria ATUAL selecionada
+            foreach (string categoria in categoriasSelecionadas)
+            {
+                LivroCategoria livroCategoria = new LivroCategoria();
+
+                livroCategoria.CategoriaID = int.Parse(categoria);
+                livroCategoria.LivroID = novoLivro.LivroID;
+                //adicionamos o obj livrocategoria dentro da listaLivro
+                livroCategorias.Add(livroCategoria);
+            }
+
+            //peguei a colecao da livrocategoria e coloquei na tabela Livro Categoria
+            context.LivroCategoria.AddRange(livroCategorias);
+            context.SaveChanges();
+
+            return LocalRedirect("/Livro/Cadastro");
+
 
         }
 
