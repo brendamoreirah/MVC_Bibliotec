@@ -31,10 +31,13 @@
                         </td>
                         <td data-cell="data devol.">@(ViewBag.LivrosComReserva.ContainsKey(livro.LivroID)
                         ? ViewBag.LivrosComReserva[livro.LivroID].ToString("dd/MM/yyyy") : "Nao possui reserva")</td>
-                        <td class="icon" data-cell="editar"><a class="navbar-item"><img style="width: 40px;"
+
+                        <td class="icon" data-cell="editar"><a class="navbar-item"asp-controller="Livro" asp-action="Editar"asp-route-id ="@livro.LivroID"><img style="width: 40px;"
                                     src="~/images/editar.svg" alt=""></a></td>
+
                         <td class="icon" data-cell="detalhes"><a class="navbar-item"><img style="width: 40px;"
                                     src="~/images/detalhes.svg" alt=""></a></td>
+                                    
                         <td class="icon" data-cell="excluir"><a class="navbar-item"><img style="width: 40px;"
                                     src="~/images/excluir.svg" alt=""></a></td>
                     </tr>

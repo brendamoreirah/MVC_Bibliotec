@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bibliotec
 build_property.RootNamespace = Bibliotec
-build_property.ProjectDir = C:\Users\47231372899\Desktop\Bibliotec atualizada\bibliotec_mvc\
+build_property.ProjectDir = c:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\47231372899\Desktop\Bibliotec atualizada\bibliotec_mvc
+build_property.MSBuildProjectDirectory = c:\Users\47231372899\Desktop\Bibliotec atualizada\Bibliotec_mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Home/Index.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Home/Privacy.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Shared/Error.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/_ViewImports.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/_ViewStart.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Livro/Cadastro.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Livro/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cQ2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eem4y617ft
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Livro/Detalhes.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Livro/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cRGV0YWxoZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o0dx8e70r8
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Livro/Editar.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Livro/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-tob0ghfxud
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Livro/Index.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Livro/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k3p1f4hd93
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Login/Index.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bsnrxrgv4h
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Shared/_Layout.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s2fi3qphz6
 
-[C:/Users/47231372899/Desktop/Bibliotec atualizada/bibliotec_mvc/Views/Usuario/Index.cshtml]
+[c:/Users/47231372899/Desktop/Bibliotec atualizada/Bibliotec_mvc/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-161fjyqyo5

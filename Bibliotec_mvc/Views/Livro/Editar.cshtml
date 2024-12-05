@@ -1,17 +1,17 @@
 <main class="container-main">
     <div class="box-conteudo">
         <h1>Editar o Livro</h1>
-        <form method="post">
+        <form method="post"action="Url.Action("Atualizar"l, new {id = ViewBag.Livro.LivroID})" enctype="multipart/form-data">
             <div class="form-linha">
                 <div class="form-group-name">
                     <label class="form-label" for="Nome">Nome</label>
-                    <input type="text" name="Nome" class="form-input" placeholder="">
+                    <input type="text" name="Nome" class="form-input" placeholder="" value="@ViewBag.Livro.Nome">
                 </div>
 
                 <div class="form-upload">
                     <label class="form-label" for="Imagem">Foto</label>
                     <div class="input-foto">
-                        <input type="file" name="Imagem">
+                        <input type="file" name="Imagem" value="@ViewBag.Livro.Imagem">
                     </div>
                 </div>
             </div>
@@ -19,16 +19,17 @@
             <div class="form-linha">
                 <div class="form-group">
                     <label class="form-label" for="Escritor">Escritor</label>
-                    <input type="text" name="Escritor" class="form-input" placeholder="">
+                    <input type="text" name="Escritor" class="form-input" placeholder=""
+                        value="@ViewBag.Livro.Escritor">
                 </div>
 
                 <div class="form-group">
                     <label class="form-label" for="Idioma">Idioma</label>
-                    <input type="text" name="Idioma" class="form-input" placeholder="">
+                    <input type="text" name="Idioma" class="form-input" placeholder="" value="@ViewBag.Livro.Idioma">
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="Editora">Editora</label>
-                    <input type="text" name="Editora" class="form-input" placeholder="">
+                    <input type="text" name="Editora" class="form-input" placeholder="" value="@ViewBag.Livro.Editora">
                 </div>
             </div>
 
@@ -36,18 +37,28 @@
                 <div class="form-group">
                     <label class="form-label" for="categoria">Categoria</label>
                     <ul>
-                        <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Romance</label>
-                        </li>
-                        <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Ação</label>
-                        </li>
-                        <li>
-                            <input name="Categoria" type="checkbox">
-                            <label class="form-label-categoria" for="Categoria">Aventura</label>
-                        </li>
+                        @*percorrer todas as categorias do meu sistema -> 13 categorias*@
+                        @foreach (var categorias in ViewBag.CategoriasDoSistema)
+                        {
+                            @*percorrer as categorias do livro e verificara qual pertece ao livro selecionado*@
+                            bool checkSave = false;
+                            @foreach (var categoriasDoLivro in ViewBag.Categoria)
+                            {
+                                //verificacao se a Id da categoria acao pertence ao Livro Selecionado
+
+                                if (categoriasDoLivro.CategoriaID == categorias.CategoriaID)
+                                {
+                                    // é verdade
+                                    checkSave = true;
+                                    break;
+                                }
+                            }
+                            <li>
+                                <input name="Categoria" type="checkbox" value ="@categorias.CategoriaID" checked="@(checkSave ? "checked" : null)">
+                                <label class="form-label-categoria" for="Categoria">@categorias.Nome</label>
+                            </li>
+                        }
+
                     </ul>
                 </div>
             </div>
@@ -56,7 +67,7 @@
                 <div class="form-group">
                     <label class="form-label" for="Descricao">Descrição</label>
                     <textarea type="text" name="Descricao"
-                        class="form-input form-descricao">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum odit placeat ipsam odio recusandae, voluptate quos, eius, nisi nostrum neque asperiores! Quasi commodi beatae fugiat nemo! Aut id est explicabo.</textarea>
+                        class="form-input form-descricao">@ViewBag.Livro.Descricao</textarea>
                 </div>
             </div>
 

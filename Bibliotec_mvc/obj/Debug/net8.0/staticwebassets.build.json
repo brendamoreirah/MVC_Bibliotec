@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WHxe2Jo5kpf4YLJwyj1+Xk5Qy4M+dg7fy5McOyj7ZXY=",
+  "Hash": "u0x7liYyAV2xkfn66lSU+wmRdToDztLx/GwJ3T8HCVc=",
   "Source": "Bibliotec",
   "BasePath": "_content/Bibliotec",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bibliotec\\wwwroot",
       "Source": "Bibliotec",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bibliotec.styles.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bibliotec.styles.css",
       "SourceId": "Bibliotec",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "Bibliotec.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bibliotec.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bibliotec.styles.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bibliotec.bundle.scp.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bibliotec.bundle.scp.css",
       "SourceId": "Bibliotec",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "Bibliotec.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bibliotec.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bibliotec.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\css\\menulateral.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\css\\menulateral.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "css/menulateral.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\menulateral.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\css\\site.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\favicon.ico",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\arrow-left.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\arrow-left.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/arrow-left.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\arrow-left.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\arrow-left.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\arrow-left.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/arrow-left.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\arrow-left.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\banner-bk-mobile.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\banner-bk-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/banner-bk-mobile.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-bk-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\banner-mulher-livro.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\banner-mulher-livro.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/banner-mulher-livro.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-mulher-livro.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\banner-mulher-livro2.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\banner-mulher-livro2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/banner-mulher-livro2.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-mulher-livro2.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\banner.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\banner.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/banner.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\bg-main.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\bg-main.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/bg-main.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-main.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\bg-main.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\bg-main.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/bg-main.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-main.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\blue-heart.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\blue-heart.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/blue-heart.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blue-heart.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\Book-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\Book-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/Book-icon.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Book-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\book-solid.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\book-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/book-solid.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\BookHeart-Icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\BookHeart-Icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/BookHeart-Icon.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BookHeart-Icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\CadLivro-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\CadLivro-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/CadLivro-icon.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CadLivro-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\check-solid.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\check-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/check-solid.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\check-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\config-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\config-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/config-icon.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\config-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\detalhes.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\detalhes.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/detalhes.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\detalhes.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\editar.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\editar.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/editar.svg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\editar.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\em-formacao (1) 1.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\em-formacao (1) 1.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/em-formacao (1) 1.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\em-formacao (1) 1.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\excluir.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\excluir.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/excluir.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\excluir.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\facebook-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\facebook-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/facebook-icon.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\facebook-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\header-logo-mobile.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\header-logo-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/header-logo-mobile.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\header-logo-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\heart-solid 2.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\heart-solid 2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/heart-solid 2.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\heart-solid 2.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\heart-solid.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\heart-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/heart-solid.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\heart-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\instagram-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\instagram-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/instagram-icon.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\linkedin-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\linkedin-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/linkedin-icon.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\linkedin-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\ListLivro-icon.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\ListLivro-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/ListLivro-icon.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ListLivro-icon.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\livro01_.jpg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\livro01_.jpg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/livro01_.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\livro01_.jpg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\livro1.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\livro1.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/livro1.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\livro1.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\livro2.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\livro2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/livro2.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\livro2.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\livro3.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\livro3.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/livro3.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\livro3.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\livro4.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\livro4.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/livro4.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\livro4.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\login-bk-desktop.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\login-bk-desktop.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/login-bk-desktop.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login-bk-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\logo-desktop.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\logo-desktop.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/logo-desktop.svg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-desktop.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\logo-mobile.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\logo-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/logo-mobile.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\logo-recortado.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\logo-recortado.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/logo-recortado.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-recortado.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\logo-senai-vermelho.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\logo-senai-vermelho.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/logo-senai-vermelho.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-senai-vermelho.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\logout-icon.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\logout-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/logout-icon.svg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logout-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\menu-hamburger.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\menu-hamburger.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/menu-hamburger.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu-hamburger.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\search-icon.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\search-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/search-icon.svg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\tabletmulher.png.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\tabletmulher.png.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/tabletmulher.png.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tabletmulher.png.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\totalmente-gratis-fundo.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\totalmente-gratis-fundo.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/totalmente-gratis-fundo.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\totalmente-gratis-fundo.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\totalmente-gratis.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\totalmente-gratis.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/totalmente-gratis.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\totalmente-gratis.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\totalmente.png",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\totalmente.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/totalmente.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\totalmente.png"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\UserPlus-icon.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\UserPlus-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/UserPlus-icon.svg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UserPlus-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\images\\white-heart.svg",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\images\\white-heart.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "images/white-heart.svg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\white-heart.svg"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\js\\index.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\js\\index.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "js/index.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\index.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\bibliotec_mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47231372899\\Desktop\\Bibliotec atualizada\\Bibliotec_mvc\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
