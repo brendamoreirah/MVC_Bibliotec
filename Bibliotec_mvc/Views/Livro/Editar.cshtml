@@ -1,11 +1,11 @@
 <main class="container-main">
     <div class="box-conteudo">
         <h1>Editar o Livro</h1>
-        <form method="post"action="Url.Action("Atualizar"l, new {id = ViewBag.Livro.LivroID})" enctype="multipart/form-data">
+        <form method="post"action="@Url.Action("Atualizar", new {id = ViewBag.Livro.LivroID})" enctype="multipart/form-data">
             <div class="form-linha">
                 <div class="form-group-name">
                     <label class="form-label" for="Nome">Nome</label>
-                    <input type="text" name="Nome" class="form-input" placeholder="" value="@ViewBag.Livro.Nome">
+                    <input type="text" name="Nome" class="form-input" placeholder="" value="@ViewBag.Livro.Nome" />
                 </div>
 
                 <div class="form-upload">

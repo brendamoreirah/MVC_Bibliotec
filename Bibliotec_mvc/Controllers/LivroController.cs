@@ -174,7 +174,7 @@ namespace Bibliotec_mvc.Controllers
             livroAtualizado.Editora = form["Descricao"];
 
             //upload de imagem
-            if (imagem.Length > 0)
+            if (imagem != null && imagem.Length > 0)
             {
                 //definir o caminho da minha imagem do livro ATUAL que eu quero alterar:
                 var caminhoImagem = Path.Combine("wwwroot/images/Livros", imagem.FileName);
@@ -238,6 +238,27 @@ namespace Bibliotec_mvc.Controllers
 
             return LocalRedirect("/Livro");
 
+        }
+
+        //metodo de excluir o livro
+        [Route("Excluir/{id}")]
+        public IActionResult Excluir(int id){
+         //buscar qual o livro do id que precisamos excluir
+         Livro livroEncontrado = context.Livro.First(livro => livro.LivroID == id);
+
+         //buscar as categorias desse livro
+         var categoriasDoLivro = context.LivroCategoria.Where(livro => livro.LivroID == id).ToList();
+
+         //precisa exluir primewiro o registro da tabela intermediaria
+         foreach(var categoria in categoriasDoLivro){
+            context.LivroCategoria.Remove(categoria);
+         }
+
+         context.Livro.Remove(livroEncontrado);
+
+         context.SaveChanges();
+
+            return LocalRedirect("/Livro");
         }
 
         // [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
